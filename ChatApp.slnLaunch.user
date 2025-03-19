@@ -11,5 +11,31 @@
         "Action": "Start"
       }
     ]
+  },
+  {
+    "Name": "New Profile (1)",
+    "Projects": [
+      {
+        "Path": "ChatApp\\ChatClient.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "ChatServer\\ChatServer.csproj",
+        "Action": "Start"
+      }
+    ]
+  },
+  {
+    "Name": "New Profile (2)",
+    "Projects": [
+      {
+        "Path": "ChatApp\\ChatClient.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "ChatServer\\ChatServer.csproj",
+        "Action": "Start"
+      }
+    ]
   }
 ]
