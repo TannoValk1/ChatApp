@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\ChatServer"
+    "\\ChatServer",
+    "\\ConsoleChatApp",
+    "\\ConsoleChatApp\\MVVM",
+    "\\ConsoleChatApp\\MVVM\\ViewModel"
   ],
   "SelectedNode": "\\ChatApp.sln",
   "PreviewInSolutionExplorer": false
