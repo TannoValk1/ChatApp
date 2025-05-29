@@ -1,6 +1,8 @@
 {
   "ExpandedNodes": [
     "",
+    "\\ChatApp",
+    "\\ChatApp\\obj",
     "\\ChatServer",
     "\\ConsoleChatApp",
     "\\ConsoleChatApp\\MVVM",
