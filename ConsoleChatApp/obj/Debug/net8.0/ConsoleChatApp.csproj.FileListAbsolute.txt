@@ -3,3 +3,8 @@ C:\Users\opilane\source\repos\TannoValk1\ChatApp\ConsoleChatApp\obj\Debug\net8.0
 C:\Users\opilane\source\repos\TannoValk1\ChatApp\ConsoleChatApp\obj\Debug\net8.0\ConsoleChatApp.AssemblyInfo.cs
 C:\Users\opilane\source\repos\TannoValk1\ChatApp\ConsoleChatApp\obj\Debug\net8.0\ConsoleChatApp.csproj.CoreCompileInputs.cache
 C:\Users\opilane\source\repos\TannoValk1\ChatApp\ConsoleChatApp\obj\Debug\net8.0\ConsoleChatApp.sourcelink.json
+C:\Users\opilane\Desktop\ChatApp\ConsoleChatApp\obj\Debug\net8.0\ConsoleChatApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\opilane\Desktop\ChatApp\ConsoleChatApp\obj\Debug\net8.0\ConsoleChatApp.AssemblyInfoInputs.cache
+C:\Users\opilane\Desktop\ChatApp\ConsoleChatApp\obj\Debug\net8.0\ConsoleChatApp.AssemblyInfo.cs
+C:\Users\opilane\Desktop\ChatApp\ConsoleChatApp\obj\Debug\net8.0\ConsoleChatApp.csproj.CoreCompileInputs.cache
+C:\Users\opilane\Desktop\ChatApp\ConsoleChatApp\obj\Debug\net8.0\ConsoleChatApp.sourcelink.json

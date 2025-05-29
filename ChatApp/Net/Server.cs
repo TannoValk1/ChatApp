@@ -22,7 +22,7 @@ namespace ChatClient.Net
         {
             if(!_client.Connected)
             {
-                _client.Connect("0.tcp.eu.ngrok.io", 14400);
+                _client.Connect("LocalHost", 7891);
                 PacketReader = new PacketReader(_client.GetStream());
 
                 if(!string.IsNullOrEmpty(username))

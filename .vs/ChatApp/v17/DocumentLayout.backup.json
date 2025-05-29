@@ -1,38 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\tanno\\Documents\\GitHub\\ChatApp\\",
+  "WorkspaceRootPath": "C:\\Users\\opilane\\source\\repos\\ChatApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{37094890-FA35-4708-A009-D4F358FCF879}|ChatServer\\ChatServer.csproj|c:\\users\\tanno\\documents\\github\\chatapp\\chatserver\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{37094890-FA35-4708-A009-D4F358FCF879}|ChatServer\\ChatServer.csproj|c:\\users\\opilane\\source\\repos\\chatapp\\chatserver\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{37094890-FA35-4708-A009-D4F358FCF879}|ChatServer\\ChatServer.csproj|solutionrelative:chatserver\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{37094890-FA35-4708-A009-D4F358FCF879}|ChatServer\\ChatServer.csproj|c:\\users\\tanno\\documents\\github\\chatapp\\chatserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{37094890-FA35-4708-A009-D4F358FCF879}|ChatServer\\ChatServer.csproj|c:\\users\\opilane\\source\\repos\\chatapp\\chatserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{37094890-FA35-4708-A009-D4F358FCF879}|ChatServer\\ChatServer.csproj|solutionrelative:chatserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6CA4E388-4856-43F2-87E3-F46E2B997F0E}|ChatApp\\ChatClient.csproj|c:\\users\\tanno\\documents\\github\\chatapp\\chatapp\\mvvm\\viewmodel\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6CA4E388-4856-43F2-87E3-F46E2B997F0E}|ChatApp\\ChatClient.csproj|solutionrelative:chatapp\\mvvm\\viewmodel\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{37094890-FA35-4708-A009-D4F358FCF879}|ChatServer\\ChatServer.csproj|c:\\users\\tanno\\documents\\github\\chatapp\\chatserver\\net\\io\\packetreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{37094890-FA35-4708-A009-D4F358FCF879}|ChatServer\\ChatServer.csproj|c:\\users\\opilane\\source\\repos\\chatapp\\chatserver\\net\\io\\packetreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{37094890-FA35-4708-A009-D4F358FCF879}|ChatServer\\ChatServer.csproj|solutionrelative:chatserver\\net\\io\\packetreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6CA4E388-4856-43F2-87E3-F46E2B997F0E}|ChatApp\\ChatClient.csproj|c:\\users\\tanno\\documents\\github\\chatapp\\chatapp\\net\\io\\packetbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6CA4E388-4856-43F2-87E3-F46E2B997F0E}|ChatApp\\ChatClient.csproj|solutionrelative:chatapp\\net\\io\\packetbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6CA4E388-4856-43F2-87E3-F46E2B997F0E}|ChatApp\\ChatClient.csproj|c:\\users\\tanno\\documents\\github\\chatapp\\chatapp\\net\\io\\packetreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6CA4E388-4856-43F2-87E3-F46E2B997F0E}|ChatApp\\ChatClient.csproj|solutionrelative:chatapp\\net\\io\\packetreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6CA4E388-4856-43F2-87E3-F46E2B997F0E}|ChatApp\\ChatClient.csproj|c:\\users\\tanno\\documents\\github\\chatapp\\chatapp\\net\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6CA4E388-4856-43F2-87E3-F46E2B997F0E}|ChatApp\\ChatClient.csproj|solutionrelative:chatapp\\net\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{37094890-FA35-4708-A009-D4F358FCF879}|ChatServer\\ChatServer.csproj|c:\\users\\tanno\\documents\\github\\chatapp\\chatserver\\net\\io\\packetbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{37094890-FA35-4708-A009-D4F358FCF879}|ChatServer\\ChatServer.csproj|c:\\users\\opilane\\source\\repos\\chatapp\\chatserver\\net\\io\\packetbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{37094890-FA35-4708-A009-D4F358FCF879}|ChatServer\\ChatServer.csproj|solutionrelative:chatserver\\net\\io\\packetbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CA4E388-4856-43F2-87E3-F46E2B997F0E}|ChatApp\\ChatClient.csproj|c:\\users\\opilane\\source\\repos\\chatapp\\chatapp\\net\\io\\packetbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CA4E388-4856-43F2-87E3-F46E2B997F0E}|ChatApp\\ChatClient.csproj|solutionrelative:chatapp\\net\\io\\packetbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,110 +30,79 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "PacketBuilder.cs",
-              "DocumentMoniker": "C:\\Users\\tanno\\Documents\\GitHub\\ChatApp\\ChatApp\\Net\\IO\\PacketBuilder.cs",
-              "RelativeDocumentMoniker": "ChatApp\\Net\\IO\\PacketBuilder.cs",
-              "ToolTip": "C:\\Users\\tanno\\Documents\\GitHub\\ChatApp\\ChatApp\\Net\\IO\\PacketBuilder.cs",
-              "RelativeToolTip": "ChatApp\\Net\\IO\\PacketBuilder.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-19T20:55:26.329Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\tanno\\Documents\\GitHub\\ChatApp\\ChatServer\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\ChatApp\\ChatServer\\Program.cs",
               "RelativeDocumentMoniker": "ChatServer\\Program.cs",
-              "ToolTip": "C:\\Users\\tanno\\Documents\\GitHub\\ChatApp\\ChatServer\\Program.cs",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\ChatApp\\ChatServer\\Program.cs",
               "RelativeToolTip": "ChatServer\\Program.cs",
-              "ViewState": "AgIAACcAAAAAAAAAAAA7wDoAAAAyAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-19T20:41:41.424Z",
+              "WhenOpened": "2025-05-29T12:06:28.196Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Client.cs",
-              "DocumentMoniker": "C:\\Users\\tanno\\Documents\\GitHub\\ChatApp\\ChatServer\\Client.cs",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\ChatApp\\ChatServer\\Client.cs",
               "RelativeDocumentMoniker": "ChatServer\\Client.cs",
-              "ToolTip": "C:\\Users\\tanno\\Documents\\GitHub\\ChatApp\\ChatServer\\Client.cs",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\ChatApp\\ChatServer\\Client.cs",
               "RelativeToolTip": "ChatServer\\Client.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAADwvzEAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwDAAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-19T20:41:52.551Z",
+              "WhenOpened": "2025-05-29T12:06:21.956Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "MainViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\tanno\\Documents\\GitHub\\ChatApp\\ChatApp\\MVVM\\ViewModel\\MainViewModel.cs",
-              "RelativeDocumentMoniker": "ChatApp\\MVVM\\ViewModel\\MainViewModel.cs",
-              "ToolTip": "C:\\Users\\tanno\\Documents\\GitHub\\ChatApp\\ChatApp\\MVVM\\ViewModel\\MainViewModel.cs",
-              "RelativeToolTip": "ChatApp\\MVVM\\ViewModel\\MainViewModel.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAuwCgAAABMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-19T21:05:31.103Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
               "Title": "PacketReader.cs",
-              "DocumentMoniker": "C:\\Users\\tanno\\Documents\\GitHub\\ChatApp\\ChatApp\\Net\\IO\\PacketReader.cs",
-              "RelativeDocumentMoniker": "ChatApp\\Net\\IO\\PacketReader.cs",
-              "ToolTip": "C:\\Users\\tanno\\Documents\\GitHub\\ChatApp\\ChatApp\\Net\\IO\\PacketReader.cs",
-              "RelativeToolTip": "ChatApp\\Net\\IO\\PacketReader.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\ChatApp\\ChatServer\\Net\\IO\\PacketReader.cs",
+              "RelativeDocumentMoniker": "ChatServer\\Net\\IO\\PacketReader.cs",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\ChatApp\\ChatServer\\Net\\IO\\PacketReader.cs",
+              "RelativeToolTip": "ChatServer\\Net\\IO\\PacketReader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-19T20:54:38.853Z",
+              "WhenOpened": "2025-05-29T12:06:14.296Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "PacketReader.cs",
-              "DocumentMoniker": "C:\\Users\\tanno\\Documents\\GitHub\\ChatApp\\ChatServer\\Net\\IO\\PacketReader.cs",
-              "RelativeDocumentMoniker": "ChatServer\\Net\\IO\\PacketReader.cs",
-              "ToolTip": "C:\\Users\\tanno\\Documents\\GitHub\\ChatApp\\ChatServer\\Net\\IO\\PacketReader.cs",
-              "RelativeToolTip": "ChatServer\\Net\\IO\\PacketReader.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAqwBQAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-19T20:42:31.694Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Server.cs",
-              "DocumentMoniker": "C:\\Users\\tanno\\Documents\\GitHub\\ChatApp\\ChatApp\\Net\\Server.cs",
-              "RelativeDocumentMoniker": "ChatApp\\Net\\Server.cs",
-              "ToolTip": "C:\\Users\\tanno\\Documents\\GitHub\\ChatApp\\ChatApp\\Net\\Server.cs",
-              "RelativeToolTip": "ChatApp\\Net\\Server.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAAowDYAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-19T21:03:20.227Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
               "Title": "PacketBuilder.cs",
-              "DocumentMoniker": "C:\\Users\\tanno\\Documents\\GitHub\\ChatApp\\ChatServer\\Net\\IO\\PacketBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\ChatApp\\ChatServer\\Net\\IO\\PacketBuilder.cs",
               "RelativeDocumentMoniker": "ChatServer\\Net\\IO\\PacketBuilder.cs",
-              "ToolTip": "C:\\Users\\tanno\\Documents\\GitHub\\ChatApp\\ChatServer\\Net\\IO\\PacketBuilder.cs",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\ChatApp\\ChatServer\\Net\\IO\\PacketBuilder.cs",
               "RelativeToolTip": "ChatServer\\Net\\IO\\PacketBuilder.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAUwBMAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-19T20:55:47.005Z",
+              "WhenOpened": "2025-05-29T12:06:09.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PacketBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\ChatApp\\ChatApp\\Net\\IO\\PacketBuilder.cs",
+              "RelativeDocumentMoniker": "ChatApp\\Net\\IO\\PacketBuilder.cs",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\ChatApp\\ChatApp\\Net\\IO\\PacketBuilder.cs",
+              "RelativeToolTip": "ChatApp\\Net\\IO\\PacketBuilder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T20:55:26.329Z",
               "EditorCaption": ""
             }
           ]

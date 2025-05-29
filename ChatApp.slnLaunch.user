@@ -9,10 +9,6 @@
       {
         "Path": "ChatServer\\ChatServer.csproj",
         "Action": "Start"
-      },
-      {
-        "Path": "ConsoleChatApp\\ConsoleChatApp.csproj",
-        "Action": "Start"
       }
     ]
   },

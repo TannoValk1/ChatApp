@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\opilane\\source\\repos\\TannoValk1\\ChatApp\\ConsoleChatApp\\ConsoleChatApp.csproj": {}
+    "C:\\Users\\opilane\\source\\repos\\ChatApp\\ConsoleChatApp\\ConsoleChatApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\opilane\\source\\repos\\TannoValk1\\ChatApp\\ConsoleChatApp\\ConsoleChatApp.csproj": {
+    "C:\\Users\\opilane\\source\\repos\\ChatApp\\ConsoleChatApp\\ConsoleChatApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\opilane\\source\\repos\\TannoValk1\\ChatApp\\ConsoleChatApp\\ConsoleChatApp.csproj",
+        "projectUniqueName": "C:\\Users\\opilane\\source\\repos\\ChatApp\\ConsoleChatApp\\ConsoleChatApp.csproj",
         "projectName": "ConsoleChatApp",
-        "projectPath": "C:\\Users\\opilane\\source\\repos\\TannoValk1\\ChatApp\\ConsoleChatApp\\ConsoleChatApp.csproj",
+        "projectPath": "C:\\Users\\opilane\\source\\repos\\ChatApp\\ConsoleChatApp\\ConsoleChatApp.csproj",
         "packagesPath": "C:\\Users\\opilane\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\opilane\\source\\repos\\TannoValk1\\ChatApp\\ConsoleChatApp\\obj\\",
+        "outputPath": "C:\\Users\\opilane\\source\\repos\\ChatApp\\ConsoleChatApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

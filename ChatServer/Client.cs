@@ -25,7 +25,7 @@ namespace ChatServer
             var opcode = _packetReader.ReadByte();
             Username = _packetReader.ReadMessage();
 
-            Console.WriteLine($"[(DateTime Now)]: Client has connected with username:{Username}");
+            Console.WriteLine($"[{DateTime.Now}]: Client has connected with username: {Username}");
 
             Task.Run(() => Process());
 
@@ -40,7 +40,7 @@ namespace ChatServer
                     {
                         case 5:
                             var msg = _packetReader.ReadMessage();
-                            Console.WriteLine($"[(DateTime.Now)]: Message recieved! {msg}");
+                            Console.WriteLine($"[{DateTime.Now}]: Message recieved! {msg}");
                             Program.BroadcastMessage($"[{DateTime.Now}]: [{Username}]: {msg}");
                             break;
                         default:
